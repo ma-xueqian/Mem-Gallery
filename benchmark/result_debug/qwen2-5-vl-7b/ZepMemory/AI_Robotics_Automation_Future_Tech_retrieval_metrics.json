@@ -1,0 +1,56 @@
+{
+  "avg_category_metrics_final": {
+    "AR": {
+      "Precision@K": 0.0,
+      "Recall@K": 0.0,
+      "HitRate@K": 0.0
+    },
+    "CD": {
+      "Precision@K": 0.0,
+      "Recall@K": 0.0,
+      "HitRate@K": 0.0
+    },
+    "FR": {
+      "Precision@K": 0.0,
+      "Recall@K": 0.0,
+      "HitRate@K": 0.0
+    },
+    "KR": {
+      "Precision@K": 0.0,
+      "Recall@K": 0.0,
+      "HitRate@K": 0.0
+    },
+    "MR": {
+      "Precision@K": 0.0,
+      "Recall@K": 0.0,
+      "HitRate@K": 0.0
+    },
+    "TR": {
+      "Precision@K": 0.0,
+      "Recall@K": 0.0,
+      "HitRate@K": 0.0
+    },
+    "TTL": {
+      "Precision@K": 0.0,
+      "Recall@K": 0.0,
+      "HitRate@K": 0.0
+    },
+    "VR": {
+      "Precision@K": 0.0,
+      "Recall@K": 0.0,
+      "HitRate@K": 0.0
+    },
+    "VS": {
+      "Precision@K": 0.0,
+      "Recall@K": 0.0,
+      "HitRate@K": 0.0
+    }
+  },
+  "avg_overall_metrics_final": {
+    "Eval@K": 5,
+    "Precision@K": 0.0,
+    "Recall@K": 0.0,
+    "HitRate@K": 0.0
+  },
+  "sample_count": 57
+}

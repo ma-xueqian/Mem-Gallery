@@ -1,0 +1,12 @@
+{
+  "sample_id": "Julian Vance",
+  "llm_name": "qwen2-5-vl-7b",
+  "memory_name": "ZepMemory",
+  "is_multimodal": false,
+  "conversation_turns": 185,
+  "qa_count": 57,
+  "memory_time_seconds": 43.63684415817261,
+  "qa_time_seconds": 53.27288341522217,
+  "total_time_seconds": 96.90972757339478,
+  "recorded_at": "2026-05-22 20:49:30"
+}

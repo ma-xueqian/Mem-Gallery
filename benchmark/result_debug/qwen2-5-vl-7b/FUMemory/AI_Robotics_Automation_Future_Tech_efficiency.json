@@ -1,0 +1,12 @@
+{
+  "sample_id": "Julian Vance",
+  "llm_name": "qwen2-5-vl-7b",
+  "memory_name": "FUMemory",
+  "is_multimodal": false,
+  "conversation_turns": 185,
+  "qa_count": 57,
+  "memory_time_seconds": 0.001436471939086914,
+  "qa_time_seconds": 73.15248942375183,
+  "total_time_seconds": 73.15392589569092,
+  "recorded_at": "2026-05-21 14:41:58"
+}

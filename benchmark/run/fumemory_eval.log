@@ -1,0 +1,8 @@
+Global seed set to 42
+
+================================================================================
+Processing dataset: AI_Robotics_Automation_Future_Tech
+================================================================================
+Loaded AI_Robotics_Automation_Future_Tech.json dataset from /home/mxx/Mem-Gallery/benchmark/data/dialog/AI_Robotics_Automation_Future_Tech.json
+Results saved to /home/mxx/Mem-Gallery/benchmark/result_debug/qwen2-5-vl-7b/FUMemory/AI_Robotics_Automation_Future_Tech_results.json
+Efficiency metrics saved to /home/mxx/Mem-Gallery/benchmark/result_debug/qwen2-5-vl-7b/FUMemory/AI_Robotics_Automation_Future_Tech_efficiency.json
